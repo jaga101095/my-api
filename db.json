@@ -17,7 +17,7 @@
      { "id": 2, "body": "some comment", "postId": 1 },
      { "id": 3, "body": "some comment", "postId": 2 },
      { "id": 4, "body": "some comment", "postId": 2 },
-     { "id": 5, "body": "some comment", "postId": 4 },
+     { "id": 5, "body": "some comment", "postId": 4 }
   ],
   "profile": { "name": "typicode" }
 }
